@@ -237,5 +237,7 @@ Sistema Laravel + SQLite para uso local en Mac.
 ---
 
 **Versión:** 1.0.0  
-**Última actualización:** 2024  
+**Última actualización:** 2025  
 **Compatibilidad:** macOS 10.12+
+
+**Desarrollado:** BrahamsCompany
